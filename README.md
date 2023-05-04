@@ -1,4 +1,4 @@
-# Multi-processing-Python-demo
+# Multi-Processing Python Demo
 Integrating a multi-processing Python demo for the Haptic Feedback Navigation system.
 
 File uses multi-processing to simulate graph simulated motion tracking position data while calculating and printing instruction on how to navigate.
